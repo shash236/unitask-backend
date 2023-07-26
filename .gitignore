@@ -7,8 +7,6 @@ repos
 .settings
 .gradle
 *.log
-!gradle/wrapper/gradle-wrapper.jar
-/gradle
 !/libs/*.jar
 !/docker-data/*.jar
 .idea/
