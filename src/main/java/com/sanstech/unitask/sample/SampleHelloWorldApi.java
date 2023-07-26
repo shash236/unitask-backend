@@ -8,7 +8,7 @@ public class SampleHelloWorldApi {
     
     @GetMapping("/hello-world")
     public String helloWorld() {
-        return "Hello World";
+        return "Hello Everynyan";
     }
 
 }
